@@ -1,32 +1,32 @@
-# 📘 Planejamento Semanal
+# 📘 Weekly Schedule
 
-| Semana | Tópico |
-|:------:|:-------|
-| **W1** | Introdução e conceitos básicos |
-| **W2** | Expressões regulares e normalização de texto |
-| **W3** | Modelagem de tópicos Bag-of-words Parte I: NMF e LDA |
-| **W4** | Modelagem de tópicos Bag-of-words Parte II: interpretação |
-| **W5–W6** | Naive Bayes e Classificação de Sentimento |
-| **W7** | Conceitos fundamentais sobre semântica vetorial |
+| Week | Topic |
+|:----:|:------|
+| **W1** | Introduction and basic concepts |
+| **W2** | Regular expressions and text normalization |
+| **W3** | Topic modeling Bag-of-words Part I: NMF and LDA |
+| **W4** | Topic modeling Bag-of-words Part II: interpretation |
+| **W5–W6** | Naive Bayes and Sentiment Classification |
+| **W7** | Fundamental concepts of vector semantics |
 | **W8–W9** | Word2Vec |
-| **W10** | Transformadores e modelos de linguagem pré-treinados |
-| **W11–W12** | Fine-tuning e modelos de linguagem mascarados |
+| **W10** | Transformers and pre-trained language models |
+| **W11–W12** | Fine-tuning and masked language models |
 | **W13–W14** | LLM Prompting |
 
 ---
 
-# 🧮 Avaliação – Instrumentos e Parâmetros de Avaliação
+# 🧮 Evaluation – Instruments and Parameters
 
-Descrição dos instrumentos de avaliação (individuais e de grupo): testes, trabalhos práticos, relatórios, projetos, apresentações... e ponderação na nota final.
+Description of the evaluation instruments (individual and group): tests, practical work, reports, projects, presentations... and their weight in the final grade.
 
-| **Descrição** | **Data limite** | **Ponderação** |
-|:--------------|:----------------|:----------------|
-| Teste *midterm* | Semana 5 | 25% |
-| Exame final | Semana 15 | 25% |
-| Projetos práticos + apresentações + participação | — | 50% |
+| **Description** | **Deadline** | **Weight** |
+|:----------------|:-------------|:-----------|
+| Midterm test | Week 5 | 25% |
+| Final exam | Week 15 | 25% |
+| Practical projects + presentations + participation | — | 50% |
 
-> 🗒️ *Adicionalmente poderão ser incluídas informações gerais, como o tipo de acompanhamento a prestar ao estudante na realização dos trabalhos; referências bibliográficas e websites úteis; e indicações para a redação de trabalhos escritos.*
+> 🗒️ *Additional information may include general guidelines such as the type of support provided to students during project development; bibliographic references and useful websites; and indications for writing assignments.*
 
 ---
 
-✨ *Última atualização:* Outubro 2025
+✨ *Last updated:* October 2025
