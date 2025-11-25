@@ -1,4 +1,4 @@
-# 📘 Weekly Schedule
+# Weekly Schedule
 
 | Week | Topic |
 |:----:|:------|
@@ -15,7 +15,7 @@
 
 ---
 
-# 🧮 Evaluation – Instruments and Parameters
+# Evaluation – Instruments and Parameters
 
 Description of the evaluation instruments (individual and group): tests, practical work, reports, projects, presentations... and their weight in the final grade.
 
@@ -26,8 +26,8 @@ Description of the evaluation instruments (individual and group): tests, practic
 | QP2 | Week 13 | 35% |
 | Final exam | Week 15 | 25% |
 
-> 🗒️ *Additional information may include general guidelines such as the type of support provided to students during project development; bibliographic references and useful websites; and indications for writing assignments.*
+ *Additional information may include general guidelines such as the type of support provided to students during project development; bibliographic references and useful websites; and indications for writing assignments.*
 
 ---
 
-✨ *Last updated:* November 2025
+ *Last updated:* November 2025
