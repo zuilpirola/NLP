@@ -23,12 +23,11 @@ Description of the evaluation instruments (individual and group): tests, practic
 |:----------------|:-------------|:-----------|
 | Midterm test | Week 5 | 25% |
 | QP1 | Week 7 | 15% |
-| QP2 | Week 10 | 15% |
-| QP3 | Week 13 | 20% |
+| QP2 | Week 13 | 35% |
 | Final exam | Week 15 | 25% |
 
 > 🗒️ *Additional information may include general guidelines such as the type of support provided to students during project development; bibliographic references and useful websites; and indications for writing assignments.*
 
 ---
 
-✨ *Last updated:* October 2025
+✨ *Last updated:* November 2025
