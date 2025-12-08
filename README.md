@@ -10,8 +10,8 @@
 | **W7** | Fundamental concepts of vector semantics |
 | **W8–W9** | Word2Vec |
 | **W10** | Transformers and pre-trained language models |
-| **W11–W12** | Fine-tuning and masked language models |
-| **W13–W14** | LLM Prompting |
+| **W11** | Fine-tuning and masked language models |
+| **W12-W13** | LLM Prompting |
 
 ---
 
