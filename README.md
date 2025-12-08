@@ -9,9 +9,8 @@
 | **W5–W6** | Naive Bayes and Sentiment Classification |
 | **W7** | Fundamental concepts of vector semantics |
 | **W8–W9** | Word2Vec |
-| **W10** | Transformers and pre-trained language models |
-| **W11** | Fine-tuning and masked language models |
-| **W12-W13** | LLM Prompting |
+| **W10** | Transformers and pre-trained language models and Fine-tuning and masked language models |
+| **W11-W13** | LLM Prompting |
 
 ---
 
