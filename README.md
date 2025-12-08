@@ -8,8 +8,8 @@
 | **W4** | Topic modeling Bag-of-words Part II: interpretation |
 | **W5–W6** | Naive Bayes and Sentiment Classification |
 | **W7** | Fundamental concepts of vector semantics |
-| **W8–W9** | Word2Vec |
-| **W10** | Transformers and pre-trained language models and Fine-tuning and masked language models |
+| **W8** | Word2Vec |
+| **W9-W10** | Transformers and pre-trained language models and Fine-tuning and masked language models |
 | **W11-W13** | LLM Prompting |
 
 ---
@@ -22,8 +22,8 @@ Description of the evaluation instruments (individual and group): tests, practic
 |:----------------|:-------------|:-----------|
 | Midterm test | Week 5 | 25% |
 | QP1 | Week 7 | 15% |
-| QP2 | Week 13 | 35% |
-| Final exam | Week 15 | 25% |
+| QP2 (project) | deliver it by Week 14 | 35% |
+| Final exam | Week 14 | 25% |
 
  *Additional information may include general guidelines such as the type of support provided to students during project development; bibliographic references and useful websites; and indications for writing assignments.*
 
