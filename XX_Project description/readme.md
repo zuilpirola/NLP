@@ -93,17 +93,17 @@ This is an **individual assignment**.
 
 # References
 
-- GloVe: Global Vectors for Word Representation  
+- **GloVe: Global Vectors for Word Representation**  
   https://nlp.stanford.edu/projects/glove/
 
-- GloVe - Classification
-  http://jase.tku.edu.tw/articles/jase-202310-26-10-0015
+- **GloVe - Classification**
+  http://jase.tku.edu.tw/articles/jase-202310-26-10-0015  
   https://www.jatit.org/volumes/Vol100No2/5Vol100No2.pdf
 
-- GloVe - Sentiment Analysis
+- **GloVe - Sentiment Analysis**  
   https://link.springer.com/article/10.1007/s11042-024-19045-7
 
-- GloVe - Document Clustering  
+- **GloVe - Document Clustering**  
   https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9557393
 
   
